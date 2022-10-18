@@ -3,7 +3,7 @@
  int main()
  {
 
-cout<<" hello world";
+cout<<"THIS IS MY FIRST PROGRAM";
 
 
 return 0;
